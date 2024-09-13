@@ -1,4 +1,6 @@
+#include <stdlib.h>
+
 int main() {
-    //WRITE YOUR CODE HERE
+    system("webui-user-extend.bat");
     return 0;
 }

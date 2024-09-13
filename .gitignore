@@ -1,0 +1,7 @@
+/bin
+/obj
+
+/icon/*.ico
+
+# Your icon info is in here. Delete this file if you want a new icon.
+*.depend 
